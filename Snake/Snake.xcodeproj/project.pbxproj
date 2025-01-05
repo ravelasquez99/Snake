@@ -12,7 +12,33 @@
 		953CAD5D2D2A24D0001062A1 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD5C2D2A24D0001062A1 /* Item.swift */; };
 		953CAD5F2D2A24D1001062A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953CAD5E2D2A24D1001062A1 /* Assets.xcassets */; };
 		953CAD622D2A24D1001062A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953CAD612D2A24D1001062A1 /* Preview Assets.xcassets */; };
+		953CAD6B2D2A3BDB001062A1 /* RunApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD6A2D2A3BDB001062A1 /* RunApp.swift */; };
+		953CAD6E2D2A3C65001062A1 /* ButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD6D2D2A3C65001062A1 /* ButtonExample.swift */; };
+		953CAD712D2A3CB6001062A1 /* TicTacToeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD702D2A3CB6001062A1 /* TicTacToeView.swift */; };
+		953CAD762D2A3EB0001062A1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 953CAD752D2A3EB0001062A1 /* README.md */; };
+		953CAD782D2A3EF1001062A1 /* LayoutExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD772D2A3EF1001062A1 /* LayoutExample.swift */; };
+		953CAD7C2D2A4065001062A1 /* StateExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD7B2D2A4065001062A1 /* StateExample.swift */; };
+		953CAD7E2D2A42A1001062A1 /* ExampleSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD7D2D2A42A1001062A1 /* ExampleSwiftUI.swift */; };
+		953CAD822D2A43FF001062A1 /* BoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD812D2A43FF001062A1 /* BoxExample.swift */; };
+		953CAD862D2A4592001062A1 /* ZStackExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD852D2A4592001062A1 /* ZStackExampleView.swift */; };
+		953CAD8C2D2A48EC001062A1 /* ExampleAbstractedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD8B2D2A48EC001062A1 /* ExampleAbstractedButton.swift */; };
+		953CAD8F2D2A4B4E001062A1 /* WinnerCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD8E2D2A4B4E001062A1 /* WinnerCalculator.swift */; };
+		953CAD9F2D2A4F21001062A1 /* SnakeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CAD9E2D2A4F21001062A1 /* SnakeTests.swift */; };
+		953CADA62D2A4F38001062A1 /* ArrayExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CADA52D2A4F38001062A1 /* ArrayExampleTests.swift */; };
+		953CADA92D2A5034001062A1 /* HowTestsWorkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CADA82D2A5034001062A1 /* HowTestsWorkTests.swift */; };
+		953CADAC2D2A51C1001062A1 /* RowExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CADAB2D2A51C1001062A1 /* RowExampleView.swift */; };
+		953CADAE2D2A54BE001062A1 /* ExampleArraySlicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CADAD2D2A54BE001062A1 /* ExampleArraySlicesView.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		953CADA02D2A4F21001062A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 953CAD4D2D2A24D0001062A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 953CAD542D2A24D0001062A1;
+			remoteInfo = Snake;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		953CAD552D2A24D0001062A1 /* Snake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Snake.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -21,10 +47,44 @@
 		953CAD5C2D2A24D0001062A1 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		953CAD5E2D2A24D1001062A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		953CAD612D2A24D1001062A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		953CAD6A2D2A3BDB001062A1 /* RunApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunApp.swift; sourceTree = "<group>"; };
+		953CAD6D2D2A3C65001062A1 /* ButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExample.swift; sourceTree = "<group>"; };
+		953CAD702D2A3CB6001062A1 /* TicTacToeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeView.swift; sourceTree = "<group>"; };
+		953CAD732D2A3D9B001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD742D2A3DF9001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD752D2A3EB0001062A1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		953CAD772D2A3EF1001062A1 /* LayoutExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutExample.swift; sourceTree = "<group>"; };
+		953CAD7A2D2A4010001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD7B2D2A4065001062A1 /* StateExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateExample.swift; sourceTree = "<group>"; };
+		953CAD7D2D2A42A1001062A1 /* ExampleSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleSwiftUI.swift; sourceTree = "<group>"; };
+		953CAD802D2A43C5001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD812D2A43FF001062A1 /* BoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxExample.swift; sourceTree = "<group>"; };
+		953CAD842D2A4548001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD852D2A4592001062A1 /* ZStackExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExampleView.swift; sourceTree = "<group>"; };
+		953CAD8A2D2A4888001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD8B2D2A48EC001062A1 /* ExampleAbstractedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleAbstractedButton.swift; sourceTree = "<group>"; };
+		953CAD8E2D2A4B4E001062A1 /* WinnerCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerCalculator.swift; sourceTree = "<group>"; };
+		953CAD942D2A4DAE001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD952D2A4DB8001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD962D2A4DC0001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD972D2A4DCA001062A1 /* Assignment.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Assignment.md; sourceTree = "<group>"; };
+		953CAD9C2D2A4F21001062A1 /* SnakeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnakeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		953CAD9E2D2A4F21001062A1 /* SnakeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnakeTests.swift; sourceTree = "<group>"; };
+		953CADA52D2A4F38001062A1 /* ArrayExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExampleTests.swift; sourceTree = "<group>"; };
+		953CADA82D2A5034001062A1 /* HowTestsWorkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowTestsWorkTests.swift; sourceTree = "<group>"; };
+		953CADAB2D2A51C1001062A1 /* RowExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowExampleView.swift; sourceTree = "<group>"; };
+		953CADAD2D2A54BE001062A1 /* ExampleArraySlicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleArraySlicesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		953CAD522D2A24D0001062A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		953CAD992D2A4F21001062A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,7 +97,9 @@
 		953CAD4C2D2A24D0001062A1 = {
 			isa = PBXGroup;
 			children = (
+				953CAD752D2A3EB0001062A1 /* README.md */,
 				953CAD572D2A24D0001062A1 /* Snake */,
+				953CAD9D2D2A4F21001062A1 /* SnakeTests */,
 				953CAD562D2A24D0001062A1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				953CAD552D2A24D0001062A1 /* Snake.app */,
+				953CAD9C2D2A4F21001062A1 /* SnakeTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,10 +116,12 @@
 		953CAD572D2A24D0001062A1 /* Snake */ = {
 			isa = PBXGroup;
 			children = (
-				953CAD582D2A24D0001062A1 /* SnakeApp.swift */,
-				953CAD5A2D2A24D0001062A1 /* ContentView.swift */,
-				953CAD5C2D2A24D0001062A1 /* Item.swift */,
 				953CAD5E2D2A24D1001062A1 /* Assets.xcassets */,
+				953CAD582D2A24D0001062A1 /* SnakeApp.swift */,
+				953CAD6F2D2A3CA8001062A1 /* TicTacToe */,
+				953CAD682D2A3BAD001062A1 /* Steps */,
+				953CAD8D2D2A4B3E001062A1 /* Helpers */,
+				953CAD722D2A3CCC001062A1 /* Ignore4Assignment */,
 				953CAD602D2A24D1001062A1 /* Preview Content */,
 			);
 			path = Snake;
@@ -68,6 +133,164 @@
 				953CAD612D2A24D1001062A1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		953CAD682D2A3BAD001062A1 /* Steps */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD692D2A3BC3001062A1 /* Step 1 - Run App */,
+				953CAD6C2D2A3C38001062A1 /* Step 2 - Button */,
+				953CAD792D2A3FEC001062A1 /* Step 3 - Changing state */,
+				953CAD7F2D2A43AF001062A1 /* Step 4 - Box */,
+				953CAD832D2A4519001062A1 /* Step 5 - Text inside box */,
+				953CAD892D2A486B001062A1 /* Step 6 - Interactive Button */,
+				953CAD902D2A4D6D001062A1 /* Step 7 - Arrays */,
+				953CAD912D2A4D87001062A1 /* Step 8 - Building the grid */,
+				953CAD922D2A4D8D001062A1 /* Step 9 Game Logic */,
+				953CAD932D2A4D92001062A1 /* Step 10 Cleanup */,
+			);
+			path = Steps;
+			sourceTree = "<group>";
+		};
+		953CAD692D2A3BC3001062A1 /* Step 1 - Run App */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD742D2A3DF9001062A1 /* Assignment.md */,
+				953CAD6A2D2A3BDB001062A1 /* RunApp.swift */,
+				953CAD7D2D2A42A1001062A1 /* ExampleSwiftUI.swift */,
+			);
+			path = "Step 1 - Run App";
+			sourceTree = "<group>";
+		};
+		953CAD6C2D2A3C38001062A1 /* Step 2 - Button */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD732D2A3D9B001062A1 /* Assignment.md */,
+				953CAD6D2D2A3C65001062A1 /* ButtonExample.swift */,
+				953CAD772D2A3EF1001062A1 /* LayoutExample.swift */,
+			);
+			path = "Step 2 - Button";
+			sourceTree = "<group>";
+		};
+		953CAD6F2D2A3CA8001062A1 /* TicTacToe */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD702D2A3CB6001062A1 /* TicTacToeView.swift */,
+			);
+			path = TicTacToe;
+			sourceTree = "<group>";
+		};
+		953CAD722D2A3CCC001062A1 /* Ignore4Assignment */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD5C2D2A24D0001062A1 /* Item.swift */,
+				953CAD5A2D2A24D0001062A1 /* ContentView.swift */,
+			);
+			path = Ignore4Assignment;
+			sourceTree = "<group>";
+		};
+		953CAD792D2A3FEC001062A1 /* Step 3 - Changing state */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD7A2D2A4010001062A1 /* Assignment.md */,
+				953CAD7B2D2A4065001062A1 /* StateExample.swift */,
+			);
+			path = "Step 3 - Changing state";
+			sourceTree = "<group>";
+		};
+		953CAD7F2D2A43AF001062A1 /* Step 4 - Box */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD802D2A43C5001062A1 /* Assignment.md */,
+				953CAD812D2A43FF001062A1 /* BoxExample.swift */,
+			);
+			path = "Step 4 - Box";
+			sourceTree = "<group>";
+		};
+		953CAD832D2A4519001062A1 /* Step 5 - Text inside box */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD842D2A4548001062A1 /* Assignment.md */,
+				953CAD852D2A4592001062A1 /* ZStackExampleView.swift */,
+			);
+			path = "Step 5 - Text inside box";
+			sourceTree = "<group>";
+		};
+		953CAD892D2A486B001062A1 /* Step 6 - Interactive Button */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD8A2D2A4888001062A1 /* Assignment.md */,
+				953CAD8B2D2A48EC001062A1 /* ExampleAbstractedButton.swift */,
+			);
+			path = "Step 6 - Interactive Button";
+			sourceTree = "<group>";
+		};
+		953CAD8D2D2A4B3E001062A1 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD8E2D2A4B4E001062A1 /* WinnerCalculator.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		953CAD902D2A4D6D001062A1 /* Step 7 - Arrays */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD942D2A4DAE001062A1 /* Assignment.md */,
+				953CADAB2D2A51C1001062A1 /* RowExampleView.swift */,
+			);
+			path = "Step 7 - Arrays";
+			sourceTree = "<group>";
+		};
+		953CAD912D2A4D87001062A1 /* Step 8 - Building the grid */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD952D2A4DB8001062A1 /* Assignment.md */,
+				953CADAD2D2A54BE001062A1 /* ExampleArraySlicesView.swift */,
+			);
+			path = "Step 8 - Building the grid";
+			sourceTree = "<group>";
+		};
+		953CAD922D2A4D8D001062A1 /* Step 9 Game Logic */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD962D2A4DC0001062A1 /* Assignment.md */,
+			);
+			path = "Step 9 Game Logic";
+			sourceTree = "<group>";
+		};
+		953CAD932D2A4D92001062A1 /* Step 10 Cleanup */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD972D2A4DCA001062A1 /* Assignment.md */,
+			);
+			path = "Step 10 Cleanup";
+			sourceTree = "<group>";
+		};
+		953CAD9D2D2A4F21001062A1 /* SnakeTests */ = {
+			isa = PBXGroup;
+			children = (
+				953CAD9E2D2A4F21001062A1 /* SnakeTests.swift */,
+				953CADA72D2A5018001062A1 /* HowTestsWork */,
+				953CADAA2D2A508C001062A1 /* Step 7 - Arrays */,
+			);
+			path = SnakeTests;
+			sourceTree = "<group>";
+		};
+		953CADA72D2A5018001062A1 /* HowTestsWork */ = {
+			isa = PBXGroup;
+			children = (
+				953CADA82D2A5034001062A1 /* HowTestsWorkTests.swift */,
+			);
+			path = HowTestsWork;
+			sourceTree = "<group>";
+		};
+		953CADAA2D2A508C001062A1 /* Step 7 - Arrays */ = {
+			isa = PBXGroup;
+			children = (
+				953CADA52D2A4F38001062A1 /* ArrayExampleTests.swift */,
+			);
+			path = "Step 7 - Arrays";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -90,6 +313,24 @@
 			productReference = 953CAD552D2A24D0001062A1 /* Snake.app */;
 			productType = "com.apple.product-type.application";
 		};
+		953CAD9B2D2A4F21001062A1 /* SnakeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 953CADA22D2A4F21001062A1 /* Build configuration list for PBXNativeTarget "SnakeTests" */;
+			buildPhases = (
+				953CAD982D2A4F21001062A1 /* Sources */,
+				953CAD992D2A4F21001062A1 /* Frameworks */,
+				953CAD9A2D2A4F21001062A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				953CADA12D2A4F21001062A1 /* PBXTargetDependency */,
+			);
+			name = SnakeTests;
+			productName = SnakeTests;
+			productReference = 953CAD9C2D2A4F21001062A1 /* SnakeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -102,6 +343,10 @@
 				TargetAttributes = {
 					953CAD542D2A24D0001062A1 = {
 						CreatedOnToolsVersion = 15.4;
+					};
+					953CAD9B2D2A4F21001062A1 = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = 953CAD542D2A24D0001062A1;
 					};
 				};
 			};
@@ -119,6 +364,7 @@
 			projectRoot = "";
 			targets = (
 				953CAD542D2A24D0001062A1 /* Snake */,
+				953CAD9B2D2A4F21001062A1 /* SnakeTests */,
 			);
 		};
 /* End PBXProject section */
@@ -128,8 +374,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				953CAD762D2A3EB0001062A1 /* README.md in Resources */,
 				953CAD622D2A24D1001062A1 /* Preview Assets.xcassets in Resources */,
 				953CAD5F2D2A24D1001062A1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		953CAD9A2D2A4F21001062A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,13 +394,43 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				953CAD6E2D2A3C65001062A1 /* ButtonExample.swift in Sources */,
 				953CAD5B2D2A24D0001062A1 /* ContentView.swift in Sources */,
+				953CADAE2D2A54BE001062A1 /* ExampleArraySlicesView.swift in Sources */,
+				953CAD862D2A4592001062A1 /* ZStackExampleView.swift in Sources */,
+				953CAD7C2D2A4065001062A1 /* StateExample.swift in Sources */,
+				953CAD6B2D2A3BDB001062A1 /* RunApp.swift in Sources */,
+				953CAD8C2D2A48EC001062A1 /* ExampleAbstractedButton.swift in Sources */,
+				953CAD712D2A3CB6001062A1 /* TicTacToeView.swift in Sources */,
+				953CAD8F2D2A4B4E001062A1 /* WinnerCalculator.swift in Sources */,
 				953CAD5D2D2A24D0001062A1 /* Item.swift in Sources */,
+				953CAD822D2A43FF001062A1 /* BoxExample.swift in Sources */,
+				953CAD782D2A3EF1001062A1 /* LayoutExample.swift in Sources */,
+				953CAD7E2D2A42A1001062A1 /* ExampleSwiftUI.swift in Sources */,
+				953CADAC2D2A51C1001062A1 /* RowExampleView.swift in Sources */,
 				953CAD592D2A24D0001062A1 /* SnakeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		953CAD982D2A4F21001062A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				953CADA62D2A4F38001062A1 /* ArrayExampleTests.swift in Sources */,
+				953CADA92D2A5034001062A1 /* HowTestsWorkTests.swift in Sources */,
+				953CAD9F2D2A4F21001062A1 /* SnakeTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		953CADA12D2A4F21001062A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 953CAD542D2A24D0001062A1 /* Snake */;
+			targetProxy = 953CADA02D2A4F21001062A1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		953CAD632D2A24D1001062A1 /* Debug */ = {
@@ -326,6 +610,42 @@
 			};
 			name = Release;
 		};
+		953CADA32D2A4F21001062A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = JP5XH4BVVG;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = velasquezventures.SnakeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Snake.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Snake";
+			};
+			name = Debug;
+		};
+		953CADA42D2A4F21001062A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = JP5XH4BVVG;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = velasquezventures.SnakeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Snake.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Snake";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -343,6 +663,15 @@
 			buildConfigurations = (
 				953CAD662D2A24D1001062A1 /* Debug */,
 				953CAD672D2A24D1001062A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		953CADA22D2A4F21001062A1 /* Build configuration list for PBXNativeTarget "SnakeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				953CADA32D2A4F21001062A1 /* Debug */,
+				953CADA42D2A4F21001062A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

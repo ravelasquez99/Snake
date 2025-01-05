@@ -21,7 +21,11 @@ struct SnakeApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TicTacToeView()
+            // Ignore this code unless you want to test the winner logic
+//                .onAppear(perform: {
+//                    TicTocWinCalculator.testExampleWinner()
+//                })
         }
         .modelContainer(sharedModelContainer)
     }
